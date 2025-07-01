@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Sawarkar</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
-<img align="right" alt="coding" width="380" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAZcneYjryETfuUnsbHDoqH9i1HbGQ0tAKYhk8YFEszF3EPR6ia8Scm1dqZU92wIycZs&usqp=CA">
+<img align="right" alt="coding" width="360" src="https://github.com/MaheshSawarkar1000/MaheshSawarkar1000/blob/main/developer_image_converted.png?raw=true">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshsawarkar1000&label=Profile%20views&color=0e75b6&style=flat" alt="maheshsawarkar1000" /> </p>
