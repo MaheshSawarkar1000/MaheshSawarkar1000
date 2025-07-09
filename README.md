@@ -1,4 +1,4 @@
-![logo](https://as2.ftcdn.net/jpg/05/19/92/91/1000_F_519929167_t4xSYAm3UnOB9xl64kNFqfjM2wGhoLVs.jpg)
+![logo](https://github.com/MaheshSawarkar1000/MaheshSawarkar1000/blob/main/WhatsApp%20Image%202025-07-09%20at%2012.17.57_6aa65388%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Mahesh Sawarkar</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
